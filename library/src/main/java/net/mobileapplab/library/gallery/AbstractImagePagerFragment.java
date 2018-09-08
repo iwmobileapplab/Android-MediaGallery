@@ -75,7 +75,7 @@ abstract public class AbstractImagePagerFragment extends Fragment {
         return viewPager;
     }
 
-    abstract public AbstractImagePagerAdapter getAdapter(ArrayList<GalleryItem> list);
+    abstract public ImagePagerAdapter getAdapter(ArrayList<GalleryItem> list);
 
     @NonNull
     private ArrayList<GalleryItem> getGalleryFromArgs() {

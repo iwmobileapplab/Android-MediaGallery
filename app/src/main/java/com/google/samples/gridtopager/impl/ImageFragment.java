@@ -12,15 +12,9 @@ import com.bumptech.glide.load.engine.GlideException;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.target.Target;
 
-import net.mobileapplab.library.GalleryItem;
 import net.mobileapplab.library.gallery.AbstractImageFragment;
 
 public class ImageFragment extends AbstractImageFragment {
-    public static ImageFragment newInstance(@NonNull GalleryItem item) {
-        ImageFragment fragment = new ImageFragment();
-        fragment.setArguments(createArgsBundle(item));
-        return fragment;
-    }
 
     @Override
     public void onRequestImage(@NonNull Uri uri, @NonNull ImageView imageView) {
