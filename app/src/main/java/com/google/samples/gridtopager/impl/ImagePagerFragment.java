@@ -2,9 +2,9 @@ package com.google.samples.gridtopager.impl;
 
 import android.support.annotation.NonNull;
 
-import net.mobileapplab.library.GalleryItem;
-import net.mobileapplab.library.gallery.ImagePagerAdapter;
-import net.mobileapplab.library.gallery.AbstractImagePagerFragment;
+import net.mobileapplab.gallery.GalleryItem;
+import net.mobileapplab.gallery.gallery.ImagePagerAdapter;
+import net.mobileapplab.gallery.gallery.AbstractImagePagerFragment;
 
 import java.util.ArrayList;
 

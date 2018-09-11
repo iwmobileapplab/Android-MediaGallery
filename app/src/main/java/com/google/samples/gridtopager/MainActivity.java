@@ -21,7 +21,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.google.samples.gridtopager.fragment.GridFragment;
 
-import net.mobileapplab.library.TransitionManager;
+import net.mobileapplab.gallery.TransitionManager;
 
 /**
  * Grid to pager app's main activity.

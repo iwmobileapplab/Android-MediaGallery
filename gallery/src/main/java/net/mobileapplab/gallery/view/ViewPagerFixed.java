@@ -15,7 +15,7 @@
  *
  */
 
-package net.mobileapplab.library.view;
+package net.mobileapplab.gallery.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

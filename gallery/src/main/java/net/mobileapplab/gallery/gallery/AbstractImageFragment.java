@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package net.mobileapplab.library.gallery;
+package net.mobileapplab.gallery.gallery;
 
 import android.annotation.SuppressLint;
 import android.net.Uri;
@@ -29,10 +29,10 @@ import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.widget.ImageView;
 
-import net.mobileapplab.library.GalleryItem;
-import net.mobileapplab.library.R;
-import net.mobileapplab.library.view.MultiTouchImageView;
-import net.mobileapplab.library.view.SwipeToDismissTouchListener;
+import net.mobileapplab.gallery.GalleryItem;
+import net.mobileapplab.gallery.R;
+import net.mobileapplab.gallery.view.MultiTouchImageView;
+import net.mobileapplab.gallery.view.SwipeToDismissTouchListener;
 
 public abstract class AbstractImageFragment extends Fragment implements SwipeToDismissTouchListener.Callback {
 

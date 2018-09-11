@@ -12,7 +12,7 @@ import com.bumptech.glide.load.engine.GlideException;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.target.Target;
 
-import net.mobileapplab.library.gallery.AbstractImageFragment;
+import net.mobileapplab.gallery.gallery.AbstractImageFragment;
 
 public class ImageFragment extends AbstractImageFragment {
 

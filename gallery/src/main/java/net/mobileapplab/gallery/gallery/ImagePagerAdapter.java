@@ -14,14 +14,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package net.mobileapplab.library.gallery;
+package net.mobileapplab.gallery.gallery;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import net.mobileapplab.library.GalleryItem;
+import net.mobileapplab.gallery.GalleryItem;
 
 import java.util.ArrayList;
 

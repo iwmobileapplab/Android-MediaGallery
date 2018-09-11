@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package net.mobileapplab.library.gallery;
+package net.mobileapplab.gallery.gallery;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -28,9 +28,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import net.mobileapplab.library.GalleryItem;
-import net.mobileapplab.library.R;
-import net.mobileapplab.library.TransitionManager;
+import net.mobileapplab.gallery.GalleryItem;
+import net.mobileapplab.gallery.R;
+import net.mobileapplab.gallery.TransitionManager;
 
 import java.util.ArrayList;
 import java.util.List;

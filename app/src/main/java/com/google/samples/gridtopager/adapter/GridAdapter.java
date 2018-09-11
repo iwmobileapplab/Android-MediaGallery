@@ -39,9 +39,9 @@ import com.google.samples.gridtopager.R;
 import com.google.samples.gridtopager.adapter.GridAdapter.ImageViewHolder;
 import com.google.samples.gridtopager.impl.ImagePagerFragment;
 
-import net.mobileapplab.library.TransitionManager;
+import net.mobileapplab.gallery.TransitionManager;
 
-import net.mobileapplab.library.GalleryItem;
+import net.mobileapplab.gallery.GalleryItem;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicBoolean;

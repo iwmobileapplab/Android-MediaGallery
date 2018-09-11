@@ -15,7 +15,7 @@
  * limitations under the License.
  *
  */
-package net.mobileapplab.library.view;
+package net.mobileapplab.gallery.view;
 
 import android.animation.ValueAnimator;
 import android.annotation.SuppressLint;

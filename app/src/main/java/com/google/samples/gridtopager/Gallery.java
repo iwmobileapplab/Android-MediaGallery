@@ -17,7 +17,7 @@ package com.google.samples.gridtopager;
 
 import android.net.Uri;
 
-import net.mobileapplab.library.GalleryItem;
+import net.mobileapplab.gallery.GalleryItem;
 
 import java.util.ArrayList;
 

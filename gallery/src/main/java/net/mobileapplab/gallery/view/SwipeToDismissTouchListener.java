@@ -15,12 +15,11 @@
  * limitations under the License.
  *
  */
-package net.mobileapplab.library.view;
+package net.mobileapplab.gallery.view;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
 import android.annotation.SuppressLint;
-import android.support.annotation.CallSuper;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;

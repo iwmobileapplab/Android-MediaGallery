@@ -33,8 +33,8 @@ import com.google.samples.gridtopager.Gallery;
 import com.google.samples.gridtopager.adapter.GridAdapter;
 import com.google.samples.gridtopager.R;
 
-import net.mobileapplab.library.GalleryItem;
-import net.mobileapplab.library.TransitionManager;
+import net.mobileapplab.gallery.GalleryItem;
+import net.mobileapplab.gallery.TransitionManager;
 
 import java.util.ArrayList;
 import java.util.List;
